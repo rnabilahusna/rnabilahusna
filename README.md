@@ -3,9 +3,9 @@
 <h3 align="center">A passionate postgraduate student of Data Science student at Universiti Teknologi Malaysia (UTM).</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rnabilahusna&label=Profile%20views&color=0e75b6&style=flat" alt="rnabilahusna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rnabilahusna&label=Profile%20views&color=0e75b6&style=flat" alt="rnabilahusna" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rnabilahusna" target="blank"><img src="https://img.shields.io/twitter/follow/rnabilahusna?logo=twitter&style=for-the-badge" alt="rnabilahusna" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rnabilahusna" target="blank"><img src="https://img.shields.io/twitter/follow/rnabilahusna?logo=twitter&style=for-the-badge" alt="rnabilahusna" /></a> </p>
 
 - 🌱 I’m currently living in **Malaysia**
 
