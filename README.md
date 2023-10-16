@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **nnabhusna@gmail.com**
 
-- ⚡ Fun fact **I used to travel alone starting at the age of 15, without my family.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
